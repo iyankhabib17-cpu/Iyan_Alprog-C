@@ -1,5 +1,4 @@
-nama = Baiq Tiara Nuringtias
-NotImplementedError
-# buat menjadi program output
+nama = dwi yan sahadi
+nim = 25241093
 print("nama saya adalah :", nama)
 print("nim saya adalah :", nim)
