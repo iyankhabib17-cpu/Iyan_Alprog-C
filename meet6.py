@@ -1,8 +1,8 @@
 # operasi aritmatika
 # buatlah program konversi suhu
 
-# nama : Ummul Khairatin
-# nim : 25241087
+# nama : Dwi yan sahadi
+# nim : 25241093
 
 # masukkan suhu anda dalam celcius
 # masukkan suhu anda dalam fahrenheit
@@ -22,4 +22,5 @@ print ("suhu anda dalam reamur :" , reamur)
 # kelvin
 celcius = float(input("masukkan suhu anda dalam celcius:"))
 kelvin = celcius + 273
+
 print ("suhu anda dalam kelvin :" , kelvin)
